@@ -18,15 +18,21 @@ http://extra-large-uncle.surge.sh
 
 ## Gif UX
 
+![MobileWebsite](https://media.giphy.com/media/eJAfa2Dq1kpe2NNysc/giphy.gif)
 
+## About
 
-
+This project wand made using ReactJS with Styled Components, API, Props Manipulation and Stateless Components!
 
 ### Funcionalidades
-Todos os endpoints estão funcionando. Pode realizar os testes normalmente.<br />
-Não é possível adicionar um produto com o valor vazio durante a seleção de quantidade.<br />
-Ao clicar em adicionar um item, após a seleção da quantidade, irá aparecer a opção de remover e quantos itens você selecinou.
-Função Logout implementada.
-Editar dados estão funcionando também.
+You can add items to card, remove them, navigate in the bottom menu or in the categories carousel.<br />
+You can edit your profile, create an account and make an order.<br /><br />
 
+**OBS**: If you make an order, you have to wait the delivery time of restaurant to make another order. 
+
+### Installation
+You need a react environment. <br />
+Take the steps:<br />
+1. ``` npm install ```
+2. ``` npm run start ```
 
