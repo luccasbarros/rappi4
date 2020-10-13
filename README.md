@@ -8,7 +8,7 @@ http://extra-large-uncle.surge.sh
 
 ## Screenshots :camera:
 
-<a href="https://ibb.co/5821GZT"><img src="https://i.ibb.co/Z8NfG9d/untitled-project-1.png" alt="untitled-project-1" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>transformar imagem png online</a><br />
+<a href="https://ibb.co/5821GZT"><img src="https://i.ibb.co/Z8NfG9d/untitled-project-1.png" alt="untitled-project-1" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
 <a href="https://ibb.co/Dzdcwm4"><img src="https://i.ibb.co/Qp0SYh9/untitled-project.png" alt="untitled-project" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
 
 
