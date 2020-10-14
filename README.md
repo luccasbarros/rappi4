@@ -4,7 +4,7 @@ Rappi4 - A food app clone!
 
 ## Link to test application.
 *Recommended use on mobile*<br />
-http://extra-large-uncle.surge.sh
+http://delirious-zoo.surge.sh
 
 ## Screenshots :camera:
 
