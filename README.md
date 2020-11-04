@@ -24,7 +24,7 @@ This project wand made using ReactJS with Styled Components, API, Props Manipula
 You can add items to card, remove them, navigate in the bottom menu or in the categories carousel.<br />
 You can edit your profile, create an account and make an order.<br /><br />
 
-**OBS**: If you make an order, you have to wait the delivery time of restaurant to make another order. 
+**OBS**: If you make an order, you have to wait the restaurant delivery time to make another order. 
 
 ### Installation
 You need a react environment. <br />
